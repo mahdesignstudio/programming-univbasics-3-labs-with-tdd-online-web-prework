@@ -12,7 +12,9 @@ def sum = "first_number+second_number"
   puts "0+1"
 end 
 
-def difference = 
+def difference = "first_number - second_number"
+  puts "0-1"
+end
 
 
 
