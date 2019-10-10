@@ -9,7 +9,7 @@ def second_number = "1"
 end 
 
 def sum = "first_number+second_number"
-  puts "first_number+second_number"
+  puts "0+1"
 end 
 
 
