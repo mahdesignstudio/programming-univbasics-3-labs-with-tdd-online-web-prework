@@ -16,7 +16,13 @@ def difference = "first_number - second_number"
   puts "0-1"
 end
 
+def product = "first_number * second_number"
+  puts "0*1"
+end 
 
+def quotient = "first_number / second_number"
+  puts "0/1"
+end 
 
 
 
