@@ -8,6 +8,7 @@ def second_number = "1"
   puts "1"
 end 
 
+def sum = "first_number "
 
 
 
